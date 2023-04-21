@@ -4,8 +4,9 @@
 <p> If you need help you can write on discord ✬ Terax#0002 </p>
   
 ## Requirement:
--pip install shutil 
--pip install colorama
+pip install shutil 
+
+pip install colorama
 
 DISCLAIMER : you have to execute the cmd as administrator and execute the app.py file
 ## Pictures:
