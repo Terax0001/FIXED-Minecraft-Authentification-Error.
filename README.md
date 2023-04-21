@@ -8,6 +8,8 @@ pip install shutil
 
 pip install colorama
 
+a line of code that will solve your authentication problem. simple and efficient.
+
 
 DISCLAIMER : you have to execute the cmd as administrator and execute the app.py file
 ## Pictures:
