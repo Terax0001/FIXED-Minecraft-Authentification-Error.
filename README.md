@@ -1,8 +1,5 @@
 # FIXED-Minecraft-Authentification-Error.
 
-<h1> Minecraft Authentification Error Fixed </h1> 
-<p align="center"> 
-</p>
 <h2>  Helping </h2>
 <p> If you need help you can write on discord ✬ Terax#0002 </p>
   
