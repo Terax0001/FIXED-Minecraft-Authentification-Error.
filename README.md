@@ -1,0 +1,1 @@
+# FIXED-Minecraft-Authentification-Error.
