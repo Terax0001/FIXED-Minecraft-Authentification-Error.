@@ -8,6 +8,7 @@ pip install shutil
 
 pip install colorama
 
+
 DISCLAIMER : you have to execute the cmd as administrator and execute the app.py file
 ## Pictures:
  
