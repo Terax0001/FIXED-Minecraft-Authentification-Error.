@@ -1,7 +1,7 @@
 # FIXED-Minecraft-Authentification-Error.
 
 <h2>  Helping </h2>
-<p> If you need help you can write on discord ✬ Terax#0002 </p>
+<p> If you need help you can write on discord ✬ Terax#0001 </p>
   
 ## Requirement:
 pip install shutil 
